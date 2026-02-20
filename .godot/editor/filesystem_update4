@@ -1,2 +1,3 @@
-res://lessons/mini_dungeon.tscn
+res://assets/torch/torch.tscn
 res://addons/gdpractice/assets/theme.tres
+res://assets/torch/torch.gd
